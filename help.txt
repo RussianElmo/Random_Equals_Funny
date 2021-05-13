@@ -1,0 +1,6 @@
+Commands:
+;meme - randomly generates and displays memes
+;dispCap or dispImg - displays possible captions or possible image queries used for creating memes
+;addCap or addImg - allows one to add new captions or image queries to lists
+;delCap or delImg - allows one to delete captions or image queries from lists
+;commands displays all commands and their functions
